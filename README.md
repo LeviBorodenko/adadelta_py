@@ -8,6 +8,7 @@ The adadelta() function will need at least 2 things:
   the gradient of your objective function at that vector.
   (Vectors are just lists)
   2. A initial guess to initialise the algorithm.
+
 Given those 2, adadelta() will try minimise your function.
 
 ## advanced usage
